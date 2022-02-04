@@ -1,4 +1,5 @@
-## - 👋 Hi, I’m @natibiruk08 and I'm currently a full stack web developer at #The #Habesha #Web
+## - 👋 Hi, I’m @natibiruk08
+## -👨‍💻 I'm a Full Stack Web Developer at The Habesha Web
 ### - 👀 I’m interested in Web design and UI/UX design
 ### - 🌱 I’m currently learning all the front-end technologies such as React and Next JS
 ### - 💞️ I’m looking to collaborate on anything
